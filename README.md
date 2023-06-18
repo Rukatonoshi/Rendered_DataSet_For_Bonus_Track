@@ -12,5 +12,5 @@ Rendered version contains: 170000 rows and  78 columns.
 `rendered_dataset.csv` - rendered version
 
 ## Credits
-[Predict Protocol Name with ML](https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps) - JUAN SEBASTIÁN ROJAS\
-[IP Network Traffic Flows Labeled with 75 Apps](https://www.kaggle.com/code/kavangondalia/predict-protocol-name-with-ml) - KAVAN GONDALIA
+[IP Network Traffic Flows Labeled with 75 Apps](https://www.kaggle.com/datasets/jsrojas/ip-network-traffic-flows-labeled-with-87-apps) - JUAN SEBASTIÁN ROJAS\
+[Predict Protocol Name with ML](https://www.kaggle.com/code/kavangondalia/predict-protocol-name-with-ml) - KAVAN GONDALIA
